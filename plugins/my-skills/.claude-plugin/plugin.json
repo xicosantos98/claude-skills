@@ -1,0 +1,8 @@
+{
+  "name": "my-skills",
+  "description": "Francisco's own skills, shared between Claude and Claude Code.",
+  "author": {
+    "name": "Francisco"
+  },
+  "skills": "./skills/"
+}

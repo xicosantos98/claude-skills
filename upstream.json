@@ -1,0 +1,36 @@
+{
+  "impeccable": {
+    "repo": "https://github.com/pbakaus/impeccable.git",
+    "ref": "main",
+    "sha": "c1e0e5492fbb524f5df84d635ecfae7dc438ec45",
+    "copy": [
+      {
+        "from": "plugin",
+        "to": "plugins/impeccable"
+      },
+      {
+        "from": "LICENSE",
+        "to": "plugins/impeccable/LICENSE"
+      },
+      {
+        "from": "NOTICE.md",
+        "to": "plugins/impeccable/NOTICE.md"
+      }
+    ]
+  },
+  "taste-skill": {
+    "repo": "https://github.com/Leonxlnx/taste-skill.git",
+    "ref": "main",
+    "sha": "f6b76575f949707b4e3c37cd86cb44b0b98643e8",
+    "copy": [
+      {
+        "from": "skills/taste-skill",
+        "to": "plugins/taste-skill/skills/taste-skill"
+      },
+      {
+        "from": "LICENSE",
+        "to": "plugins/taste-skill/LICENSE"
+      }
+    ]
+  }
+}

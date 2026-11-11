@@ -1,0 +1,4 @@
+*.sh text eol=lf
+plugins/impeccable/skills/impeccable/scripts/impeccable text eol=lf
+# Windows batch files break with LF line endings.
+*.cmd text eol=crlf

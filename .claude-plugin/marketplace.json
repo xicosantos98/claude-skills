@@ -1,0 +1,27 @@
+{
+  "name": "francisco-skills",
+  "description": "Francisco's shared skills for Claude and Claude Code: design skills (Impeccable, Taste Skill) and personal skills.",
+  "owner": {
+    "name": "Francisco"
+  },
+  "plugins": [
+    {
+      "name": "impeccable",
+      "source": "./plugins/impeccable",
+      "description": "Impeccable by Paul Bakaus: design vocabulary and anti-slop checks. /impeccable polish, audit, critique, typeset, layout and more.",
+      "category": "design"
+    },
+    {
+      "name": "taste-skill",
+      "source": "./plugins/taste-skill",
+      "description": "Taste Skill by Leon Lin: art direction, real photographs and a real-browser check for websites.",
+      "category": "design"
+    },
+    {
+      "name": "my-skills",
+      "source": "./plugins/my-skills",
+      "description": "Francisco's own skills, including the CabinFit brand rules.",
+      "category": "productivity"
+    }
+  ]
+}

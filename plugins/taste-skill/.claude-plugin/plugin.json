@@ -1,0 +1,12 @@
+{
+  "name": "taste-skill",
+  "description": "Taste Skill (design-taste-frontend): art direction, licensed real photographs and a real-browser check for websites, so pages look designed, not generated. Vendored from github.com/Leonxlnx/taste-skill.",
+  "author": {
+    "name": "leonxlnx",
+    "email": "hello@tasteskill.dev"
+  },
+  "homepage": "https://www.tasteskill.dev",
+  "repository": "https://github.com/Leonxlnx/taste-skill",
+  "license": "MIT",
+  "skills": "./skills/"
+}
